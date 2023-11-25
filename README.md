@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @n0rth97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-n0rth97/n0rth97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, sou Felipe Caetano.
+- 👀 I’m interested in Pentesting, Red Teaming, Malware devleopment and Malware analysis.
+- 🌱 I’m currently learning security solutions
+- 💞️ I’m looking to collaborate on security solutions software
+- 📫 Reach me on n0rth97@proton.me
