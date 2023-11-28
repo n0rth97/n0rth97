@@ -1,4 +1,4 @@
-- 👋 Olá, sou Felipe Caetano.
+- 👋 Hi, i'm Felipe Caetano.
 - 👀 I’m interested in Pentesting, Red Teaming, Malware devleopment and Malware analysis.
 - 🌱 I’m currently learning security solutions
 - 💞️ I’m looking to collaborate on security solutions software
