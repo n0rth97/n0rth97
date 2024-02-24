@@ -1,5 +1,2 @@
-- 👋 Hi, i'm Felipe Caetano.
-- 👀 I’m interested in Pentesting, Red Teaming, Malware devleopment and Malware analysis.
-- 🌱 I’m currently learning security solutions
-- 💞️ I’m looking to collaborate on security solutions software
+- 👀 I’m interested in Pentesting, Red Teaming, Malware development and Malware analysis.
 - 📫 Reach me on n0rth97@proton.me
